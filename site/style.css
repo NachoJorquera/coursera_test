@@ -1,0 +1,19 @@
+h1 {
+    font-size: 300%;
+    background-color: aquamarine;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px
+}
+
+#indice {
+    color: red;
+}
+
+body {
+    background-color: purple;
+}
+
+section {
+    font-size: 120%;
+}
